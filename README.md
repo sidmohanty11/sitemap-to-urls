@@ -1,6 +1,8 @@
 ## Sitemap to URLs
 ### Built using [Qwik](https://qwik.builder.io/)!
 
+![Screenshot 2024-01-14 at 12 17 39 AM](https://github.com/sidmohanty11/sitemap-to-urls/assets/73601258/040ba085-a487-411a-a318-2ff47f7f6dbb)
+
 **Sitemap to URLs** is a streamlined, user-friendly web application hosted at [sitemap-to-urls.vercel.app](https://sitemap-to-urls.vercel.app). This tool is designed to simplify the process of extracting and formatting URL lists from sitemap files.
 
 ## Backstory
