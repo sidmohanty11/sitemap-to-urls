@@ -18,7 +18,7 @@ export const head: DocumentHead = {
     {
       name: "description",
       content:
-        "Test your frontend skills by ranking your deployed website against the design.",
+        "Get all the URLs from a sitemap in a single click. Format them however you want.",
     },
   ],
 };

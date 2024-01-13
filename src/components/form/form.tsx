@@ -16,7 +16,7 @@ export default component$(() => {
     let computedUrls = sitemapUrls.value;
     if (regexString.value) {
       const regexExp = new RegExp(regexString.value);
-      computedUrls = sitemapUrls.value?.filter((url) => regexExp.test(url));
+      computedUrls = computedUrls?.filter((url) => regexExp.test(url));
     }
     if (pathnamesOnly.value) {
       computedUrls = computedUrls?.map((url) => {
